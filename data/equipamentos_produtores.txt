@@ -1,0 +1,3 @@
+0;Gerador;500.0;4
+1;Painel Solar;340.0;4
+2;Outro;100.0;6
